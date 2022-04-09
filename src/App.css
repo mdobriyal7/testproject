@@ -1,0 +1,21 @@
+
+
+
+#login,#signup{
+  
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 150px;
+    left: 450px;
+    
+}
+.bodyparts{
+margin:25px;
+}
+.forgetpass{
+position:relative;
+left: 450px;
+
+}
